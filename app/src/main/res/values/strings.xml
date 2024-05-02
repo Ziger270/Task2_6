@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task2_6</string>
+    <string name="hi">Приветствую</string>
+    <string name="fio">Разработчик Бисиров А.В. РИБО-02-22 Вар №3</string>
+    <string name="start">Начать</string>
+    <string name="firstNum">Число A</string>
+    <string name="secondNum">Число B</string>
+    <string name="thirdNum">Число C</string>
+    <string name="sum">Вычислить</string>
+    <string name="idea">Калькулятор A-B-C=?</string>
+</resources>
